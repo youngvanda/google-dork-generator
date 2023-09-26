@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Bukhari+Script&display=swap');
+
+body {
+    font-family: 'Bukhari Script', cursive, Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #1c1c1c;
+    color: #fff;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    color: #ffc107;
+}
+
+h3 {
+    font-size: 18px;
+    margin-top: 30px;
+    color: #ffc107;
+}
+
+.search-bar {
+    padding: 8px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    margin-top: 10px;
+    width: 300px;
+    max-width: 100%;
+    box-sizing: border-box;
+    font-size: 14px;
+    background-color: #333;
+    color: #fff;
+}
+
+.button-85 {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #08944e;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+  text-transform: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+  font-family: 'Bukhari Script', cursive, Arial, sans-serif;
+}
+
+.button-85:hover {
+  background-color: #ffaa00;
+}
+
+
+.results {
+    margin-top: 30px;
+    text-align: left;
+}
+
+.category {
+    margin-bottom: 20px;
+}
+
+.category h4 {
+    margin-top: 0;
+    font-size: 16px;
+    color: #ffc107;
+}
+
+.category div {
+    margin-top: 10px;
+}
+
+.results a {
+    display: block;
+    margin-bottom: 10px;
+    padding: 8px;
+    background-color: #444;
+    color: #ffc107;
+    text-decoration: none;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+    font-size: 16px;
+}
+
+.results a:hover {
+    background-color: #555;
+}
