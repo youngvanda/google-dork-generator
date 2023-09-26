@@ -2,6 +2,12 @@
 My Handy Google Dorks for Hunting/Pentesting. I personally collected these Google Dorks from reading write-ups, other hunters' Tweets and experiences. So don't just rely on these dorks and add your newly discovered dorks to your DB.  
 
 # Installation
+
+If you lazy like me, check out the URL:
+```
+https://youngvanda.github.io/google-dork-generator/
+```
+
 If you have a VPS:
 ```
 apt install apache2
@@ -16,7 +22,6 @@ cd google-dork-generator
 python3 -m http.server
 Go this URL --> http://localhost:8000/
 ```
-
 
 
 Take Care Kings 👑👑👑
