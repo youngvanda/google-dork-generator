@@ -1,5 +1,5 @@
 # Google Dork Generator
-My Handy Google Dorks for Hunting/Pentesting. I personally collected these Google Dorks from reading write-ups, other hunters' Tweets and experiences. So don't just rely on these dorks add them gradually to your DB.  
+My Handy Google Dorks for Hunting/Pentesting. I personally collected these Google Dorks from reading write-ups, other hunters' Tweets and experiences. So don't just rely on these dorks and add your new discovered dorks theme gradually to your DB.  
 
 # Installation
 If you have a VPS:
