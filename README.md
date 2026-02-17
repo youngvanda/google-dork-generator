@@ -1,27 +1,31 @@
 # Google Dork Generator
-My Handy Google Dorks for Hunting/Pentesting. I personally collected these Google Dorks from reading write-ups, other hunters' Tweets and experiences. So don't just rely on these dorks and add your newly discovered dorks to your DB.  
+A handy collection of Google Dorks for Reconnaissance, Penetration Testing, and Bug Bounty Hunting.
+
+I’ve gathered these dorks from write-ups, fellow hunters’ tweets, and my own experience in the field. Think of this as a solid starting point — not the final database. Keep experimenting, discovering new dorks, and growing your own collection.
 
 # Installation
 
-If you lazy like me, check out the URL:
+Just want to use it?!
+
+No setup needed:
 ```
 https://youngvanda.github.io/google-dork-generator/
 ```
 
-If you have a VPS:
+Running it on a VPS:
 ```
 apt install apache2
 cd /var/www/html/
 git clone https://github.com/youngvanda/google-dork-generator
 ```
 
-If you don't have a VPS, and you want to run this dork on your PC or local system:
+Running it locally (on your own machine):
 ```
 git clone https://github.com/youngvanda/google-dork-generator
 cd google-dork-generator
 python3 -m http.server
-Go this URL --> http://localhost:8000/
+Then open this in your browser: http://localhost:8000/
 ```
 
 
-Take Care Kings 👑👑👑
+Happy hunting — and keep building your edge. 👑 👑👑👑
