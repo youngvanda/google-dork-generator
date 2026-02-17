@@ -5,7 +5,7 @@ I’ve gathered these dorks from write-ups, fellow hunters’ tweets, and my own
 
 # Installation
 
-Just want to use it?!
+Just want to use it!?
 
 No setup needed:
 ```
