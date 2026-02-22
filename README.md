@@ -27,4 +27,4 @@ Then open this in your browser: http://localhost:8000/
 
 
 
-### Happy hunting 📿🔥👑
+### Happy Hunting 📿🔥👑
