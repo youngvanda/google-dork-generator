@@ -5,21 +5,19 @@ I’ve gathered these dorks from write-ups, fellow hunters’ tweets, and my own
 
 # Installation
 
-Just want to use it!?
-
-No setup needed:
+### 🌐 Use It Instantly (No Setup)
 ```
 https://youngvanda.github.io/google-dork-generator/
 ```
 
-Running it on a VPS:
+### ☁️ Run on a VPS
 ```
 apt install apache2
 cd /var/www/html/
 git clone https://github.com/youngvanda/google-dork-generator
 ```
 
-Running it locally (on your own machine):
+### 🖥️ Running it locally (on your own machine):
 ```
 git clone https://github.com/youngvanda/google-dork-generator
 cd google-dork-generator
@@ -28,4 +26,5 @@ Then open this in your browser: http://localhost:8000/
 ```
 
 
-Happy hunting — and keep building your edge. 👑 👑👑👑
+
+### Happy hunting 📿🔥👑
