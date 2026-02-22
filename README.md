@@ -5,12 +5,12 @@ I’ve gathered these dorks from write-ups, fellow hunters’ tweets, and my own
 
 # Installation
 
-### 🌐 Use It Instantly (No Setup)
+### 🌐 Use It Instantly (no setup)
 ```
 https://youngvanda.github.io/google-dork-generator/
 ```
 
-### ☁️ Run on a VPS
+### ☁️ Running it on a VPS
 ```
 apt install apache2
 cd /var/www/html/
